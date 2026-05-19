@@ -1,7 +1,3 @@
-import { useState } from 'react'
-import reactLogo from './assets/react.svg'
-import viteLogo from './assets/vite.svg'
-import heroImg from './assets/hero.png'
 import './index.css'
 import logo from './assets/logo.png'
 import img from './assets/img.png'
@@ -21,7 +17,6 @@ export default function App() {
           <div className="flex items-center justify-center " style={{width: 250,heigth: 150}}>
             <img
                   src={logo}
-                  className=""
                 />
           </div>
         </div>
