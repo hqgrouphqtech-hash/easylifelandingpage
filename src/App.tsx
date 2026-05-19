@@ -14,7 +14,7 @@ export default function App() {
       {/* Navbar */}
       <header className="relative z-10 max-w-7xl mx-auto px-6 lg:px-8 py-6 flex items-center justify-between">
         <div className="flex items-center gap-3">
-          <div className="flex items-center justify-center " style={{width: 250,heigth: 150}}>
+          <div className="flex items-center justify-center " style={{width: 250,height: 150}}>
             <img
                   src={logo}
                 />
